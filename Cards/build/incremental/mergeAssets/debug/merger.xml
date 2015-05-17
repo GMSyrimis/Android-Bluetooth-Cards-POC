@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/e17846/views/uchicago/android/cards/CardsProject/Cards/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/e17846/views/uchicago/android/cards/CardsProject/Cards/src/debug/assets" />
+    </dataSet>
+
+</merger>

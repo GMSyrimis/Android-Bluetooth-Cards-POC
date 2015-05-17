@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cards</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="host_game_button_text">Host New Game</string>
+    <string name="join_game_button_text">Join Existing Game</string>
+    <string name="no_bluetooth_text">Sorry, bluetooth was not found on this device. You cannot
+        play.
+    </string>
+    <string name="num_players_label">How many players will there be?</string>
+    <string name="start_button_text">Start</string>
+    <string name="bluetooth_not_enabled_text">Bluetooth not enabled. Cannot proceed.</string>
+    <string name="bluetooth_enabled">Bluetooth enabled</string>
+    <string name="find_devices_title">Please select a device to host this game.</string>
+    <string name="play_card_message">Do you want to play this card?</string>
+    <string name="enterName">enter your name...</string>
+    <string name="yourName">Your Name:</string>
+    <string name="waiting_for_players">Waiting for players.</string>
+    <string name="one_moment_please">One moment please</string>
+    <string name="waiting_for_moves">Waiting for players to move</string>
+
+    <string-array name="num_players_array">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+    </string-array>
+
+</resources>
